@@ -1,0 +1,20 @@
+{
+  "files": {
+    "package.json": [
+      {
+        "id": "d155d933-2c34-4763-8bfe-c5833e35fb00",
+        "line": 1,
+        "version": 2,
+        "index": 0
+      }
+    ],
+    "shortcuts github.txt": [
+      {
+        "id": "31a76724-f71f-4fbb-8a8e-e8ee4482f9ad",
+        "line": 21,
+        "version": 34,
+        "index": 429
+      }
+    ]
+  }
+}
